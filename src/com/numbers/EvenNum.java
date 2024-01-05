@@ -15,5 +15,6 @@ public static void main(String[] args) {
 			sum=sum+i;
 }}	System.out.println("count of even numbers "+count);
 	System.out.println("Sum of even numbers "+sum);
+	System.out.println("count and sum");
 }
 }
